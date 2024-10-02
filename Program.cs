@@ -13,3 +13,6 @@ public class Program
         double capital = double.Parse(Console.ReadLine()); //Converte a string digitada em um número do tipo double
         Console.Write("Digite a taxa de juros anual (em %): "); //Exibe uma mensagem pedindo a taxa de juros anual, em porcentagem.
         double taxa = double.Parse(Console.ReadLine());  //Converte a string digitada em um número do tipo double
+        double tempoMeses = double.Parse(Console.ReadLine());  //Lê e converte o tempo em meses para double.
+        double montante = CalcularJurosCompostos(capital, taxa, tempoMeses); //Calcula com os valores fornecidos para o montante final
+        double juros = montante - capital; //Subtrai o capital inicial do montante total para obter o valor dos juros compostos ganhos
