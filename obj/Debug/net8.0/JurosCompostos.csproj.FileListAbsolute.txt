@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\bin\Debug\net8.0\JurosCompostos.exe
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\bin\Debug\net8.0\JurosCompostos.deps.json
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\bin\Debug\net8.0\JurosCompostos.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\bin\Debug\net8.0\JurosCompostos.dll
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\bin\Debug\net8.0\JurosCompostos.pdb
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\obj\Debug\net8.0\JurosCompostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\obj\Debug\net8.0\JurosCompostos.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\obj\Debug\net8.0\JurosCompostos.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\obj\Debug\net8.0\JurosCompostos.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\obj\Debug\net8.0\JurosCompostos.sourcelink.json
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\obj\Debug\net8.0\JurosCompostos.dll
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\obj\Debug\net8.0\refint\JurosCompostos.dll
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\obj\Debug\net8.0\JurosCompostos.pdb
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\obj\Debug\net8.0\JurosCompostos.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documents\Larissa\ParaMeuCurriculo\obj\Debug\net8.0\ref\JurosCompostos.dll

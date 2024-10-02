@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\JurosCompostos\\JurosCompostos.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\ParaMeuCurriculo\\JurosCompostos.csproj",
       "projectName": "JurosCompostos",
-      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\JurosCompostos\\JurosCompostos.csproj",
+      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\ParaMeuCurriculo\\JurosCompostos.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\JurosCompostos\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\ParaMeuCurriculo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"

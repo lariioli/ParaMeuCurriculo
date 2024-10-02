@@ -11,17 +11,23 @@ public class Program
     {
         Console.Write("Digite o capital (valor inicial): "); //Exibe uma mensagem no console pedindo ao usuário para inserir o valor do capital inicial.
         double capital = double.Parse(Console.ReadLine()); //Converte a string digitada em um número do tipo double
+
         Console.Write("Digite a taxa de juros anual (em %): "); //Exibe uma mensagem pedindo a taxa de juros anual, em porcentagem.
         double taxa = double.Parse(Console.ReadLine());  //Converte a string digitada em um número do tipo double
+
+        Console.Write("Digite o tempo (em meses): "); //Exibe uma mensagem pedindo o tempo de investimento em meses.
         double tempoMeses = double.Parse(Console.ReadLine());  //Lê e converte o tempo em meses para double.
+
         double montante = CalcularJurosCompostos(capital, taxa, tempoMeses); //Calcula com os valores fornecidos para o montante final
+
         double juros = montante - capital; //Subtrai o capital inicial do montante total para obter o valor dos juros compostos ganhos
+
         Console.WriteLine($"\nO montante total após {tempoMeses} meses é: R$ {montante:F2}"); //Exibe o montante total e os juros compostos com duas casas decimais
         Console.WriteLine($"Os juros compostos são: R$ {juros:F2}"); //Exibe o tempo em meses e o valor calculado do montante e dos juros
     }
     public static void Main()
     {
-         Program programa = new Program(); //Cria uma nova instância da classe Program e chama o método Executar para iniciar a interação com o usuário
+        Program programa = new Program(); //Cria uma nova instância da classe Program e chama o método Executar para iniciar a interação com o usuário
         programa.Executar(); //Executa o método que solicita entradas, calcula e exibe os resultados
     }
 }
