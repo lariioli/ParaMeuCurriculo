@@ -16,3 +16,8 @@ public class Program
         double tempoMeses = double.Parse(Console.ReadLine());  //Lê e converte o tempo em meses para double.
         double montante = CalcularJurosCompostos(capital, taxa, tempoMeses); //Calcula com os valores fornecidos para o montante final
         double juros = montante - capital; //Subtrai o capital inicial do montante total para obter o valor dos juros compostos ganhos
+        Console.WriteLine($"\nO montante total após {tempoMeses} meses é: R$ {montante:F2}"); //Exibe o montante total e os juros compostos com duas casas decimais
+        Console.WriteLine($"Os juros compostos são: R$ {juros:F2}"); //Exibe o tempo em meses e o valor calculado do montante e dos juros
+    }
+    public static void Main()
+    {
