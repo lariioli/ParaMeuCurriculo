@@ -22,6 +22,9 @@ Garantir que o usuário não insira texto onde são esperados números.
 Exibir mensagens de erro específicas para cada tipo de erro de entrada.
 Implementar um loop que permita ao usuário tentar novamente se a entrada for inválida.
 
+**Melhorias Visuais:**
+Adicionar cores para deixar a aplicação visualmente mais atrativa e interativa.
+
 
 ### Conclusão
 O projeto foi bem-sucedido ao fornecer uma implementação simples e funcional para calcular juros compostos. O programa realiza as operações matemáticas necessárias e interage de forma clara com o usuário, apresentando os resultados formatados. Isso ajuda os usuários a entender o impacto da taxa de juros e do tempo sobre o montante final em uma aplicação financeira.
