@@ -9,3 +9,4 @@ public class Program
     }
      public void Executar() //Ele executa as interações com o usuário, coletando entradas e exibindo os resultados no console
     {
+        Console.Write("Digite o capital (valor inicial): "); //Exibe uma mensagem no console pedindo ao usuário para inserir o valor do capital inicial.
