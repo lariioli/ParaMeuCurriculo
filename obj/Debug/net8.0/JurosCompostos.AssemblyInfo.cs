@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JurosCompostos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+258246e0d7a204c127291c094499d4800e77d03d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bebc4dffc6f804b95092915cdfa4b84b0db33cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("JurosCompostos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JurosCompostos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
