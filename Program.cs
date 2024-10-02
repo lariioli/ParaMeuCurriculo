@@ -21,3 +21,7 @@ public class Program
     }
     public static void Main()
     {
+         Program programa = new Program(); //Cria uma nova instância da classe Program e chama o método Executar para iniciar a interação com o usuário
+        programa.Executar(); //Executa o método que solicita entradas, calcula e exibe os resultados
+    }
+}
