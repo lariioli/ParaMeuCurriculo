@@ -1,5 +1,6 @@
 # ParaMeuCurriculo
 ![alt text](image.png)
+![alt text](image-1.png)
 
 ### Juros Compostos
  #### O que foi utilizado

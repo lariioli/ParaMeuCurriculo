@@ -1,0 +1,14 @@
+Cálculo de Juros Compostos:
+Capital Inicial: R$ 1000,00
+Taxa de Juros Anual: 7,00%
+Tempo (em meses): 12
+Montante Final: R$ 1072,29
+Juros Compostos: R$ 72,29
+======================================
+Cálculo de Juros Compostos:
+Capital Inicial: R$ 8000,00
+Taxa de Juros Anual: 5,00%
+Tempo (em meses): 5
+Montante Final: R$ 8168,06
+Juros Compostos: R$ 168,06
+======================================
