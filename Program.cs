@@ -6,3 +6,6 @@ public class Program
 
     {
         return capital * Math.Pow(1 + (taxa / 100) / 12, tempoMeses); //Calcula a potência de um número
+    }
+     public void Executar() //Ele executa as interações com o usuário, coletando entradas e exibindo os resultados no console
+    {
